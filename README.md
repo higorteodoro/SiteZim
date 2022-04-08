@@ -1,12 +1,37 @@
 # SiteZim
-Create my first site in de git for responsive 
-<!-- Meu primeiro site de aprendizado -bora arrochar>
+Create my first site in git for responsive 
+<!-- Meu primeiro site de aprendizado - bora arrochar>
 
-<!-- Primeiro bora responder 
-Nos dias 07/02 a 11/02 nos recebemos uma visita de vocês in loco, passei uma demanda ao Gabriel Sarache sobre a integração do sistema Solus com o sistema de notas da prefeitura daqui da cidade, não obtive mais informações sobre como está o andamento dessa integração, posso estar enganado mais fui informado que depois das visitas nas demais singulares da minha região, quando o mesmo retornasse a solus ele iria dar continuidade a essas demandas que não tiveram como ser resolvidas dentro das dependencias da Unimed, gostaria de saber como podemos proceder nesse caso. Reitero que precisamos dessa integração o quanto antes cada dia mais está aumentando o numero de notas geradas pelo meu cadastro.
+1. Config Boostrap.
+  1.1 - Implementação configurações bootstrap - 08-04-2022.
+
+
+
+2.Decide for layot.
+
+
+
+
+3.For back.
+
+
+
+
+
+4.Login in face and gmail.
+
+
+
+
+
+5.Test and finish configurate
+
+
+
+6. Production.
 
 Atenciosamente.
 
 
-Nos dias tanana a tanana rece
+
 >
